@@ -1,5 +1,5 @@
 # Tableau User Story | Sales & Customer Performance Dashboards
-https://github.com/sadarudeen/Sales-Performance-Dashboard/commit/3544ed45fccb888ee0d3dd512f1396218473ea16 
+![Screenshot 2025-06-24 223347](https://github.com/user-attachments/assets/8ec36f55-429a-4477-a1d0-90009bf51a45)
 ## Introduction
 This project was designed to build two impactful Tableau dashboards, Sales Dashboard and Customer Dashboard to help key stakeholders, such as sales managers, marketing leads, and executives, better understand performance patterns, customer behaviors, and revenue opportunities.
 The goal: to turn raw data into decision-ready insights through intuitive visuals, dynamic filters, and interactive exploration.
