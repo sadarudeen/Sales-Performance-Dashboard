@@ -45,6 +45,9 @@ Filters available for:
 Product filters: Category and Subcategory
 Geographic filters: Region, State, and City
 Interactive graphs and charts allow in-chart filtering for deeper exploration.
+## Tableau Dashboard container Mockup 
+![Screenshot 2025-06-25 120521](https://github.com/user-attachments/assets/3b3899b0-de41-417c-bee9-90d2b7a3f0f8)
+
 ## Outcome
 The dashboards bring together performance, trends, and behavior into one place, making it easier for teams to act faster, with more clarity and confidence.
 This user story reflects not just a technical build—but a thoughtful approach to data storytelling and user-centered design.
